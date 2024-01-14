@@ -49,7 +49,7 @@ MONGODB_URI=your_mongo_db_uri
 ### Start the server/Backend
 ```bash
 cd backend
-node app.js
+npm start
 
 ```
 Start the Client/Frontend
